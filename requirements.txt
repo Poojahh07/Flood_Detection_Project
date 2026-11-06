@@ -1,0 +1,7 @@
+numpy
+rasterio
+matplotlib
+scikit-learn
+torch
+Flask
+Pillow
